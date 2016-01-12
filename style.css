@@ -1,0 +1,21 @@
+
+.row{
+  padding: 0px;
+  text-align: center;
+  color: white;
+  font-family: cursive;
+}
+
+
+.col-lg-4{
+
+  height: 100px;
+  width: 100px;
+  border: 1px solid white;
+  radius: 5px;
+  padding: 0px;
+  background-color: black;
+  vertical-align: middle;
+  font-size: 40px;
+  float: left;
+}
