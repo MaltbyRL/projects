@@ -35,6 +35,7 @@ var $data = "";
   });
 
 
+
   //player 1 add 10 to scoreArr, player 2 add 1 to score.
   function player(val){
     // console.log("this:", this);
